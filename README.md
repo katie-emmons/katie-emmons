@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Katie Emmons, here are four projects I've worked on that I'm very proud of:
+## I'm Katie Emmons, a self-taught data scientist living in Seattle, WA. Here are four projects I've worked on that I'm proud of! 
 
 **📖 A peer-reviewed paper published in the Journal of Autism and Developmental Disorders**
 - [Link to paper](https://pubmed.ncbi.nlm.nih.gov/34013478/)
